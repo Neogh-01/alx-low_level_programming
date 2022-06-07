@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *  *Main - Print out strings to stdout
- *  *Return (0) Always success
+ *  *Description: Main - Print out strings to stdout
+ *  *Return: Always 0 (Success)
  **/
 
 int main(void)
