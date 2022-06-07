@@ -1,14 +1,16 @@
-#include<stdio>
+#include <stdio>
 
 /**
- * Write a C program that prints exact tex, follow by new line
+ * Write a C program that prints exact file
  *
- * Text - "Programming is like building a multilingual puzzle"
+ * Text is "Programming is like building a multilingual puzzle"
  *
- * Return: Always 0 (Success)
+ * Return (0) Always success
+ *
  */
 int main(void)
+
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0)
+	puts("\"Programming is like building a multilingual puzzle");
+		return(0);
 }
