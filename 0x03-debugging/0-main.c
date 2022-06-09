@@ -13,7 +13,7 @@ int main(void)
 
 	        int i;
 
-	        i = 98;
+	        I = 0;
 
 		positive_or_negative(i);
 
