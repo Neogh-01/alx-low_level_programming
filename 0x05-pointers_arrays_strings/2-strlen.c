@@ -4,14 +4,9 @@
 /**
  * _strlen - prints string length
  * @s: string input
- * Return to lenght of the string
+ * Return: Always 0
 */
 int _strlen(char *s);
 {
-	int len;
-	for (; *s != '\0'; s++)
-		{
-			len + = 1;
-		}
-	return (len);
+	return (strlen(s));
 }
