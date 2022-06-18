@@ -2,8 +2,8 @@
 
 /**
  * _strcat - is a function that appends a string to a string
- * @dest - first parameter to be appended by src
- * @src - seceond parameter to be appended by dest
+ * @dest: first parameter to be appended
+ * @src: second parameter to be appended
  * Return: pointer to string dest
  */
 char *_strcat(char *dest, char *src)
