@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio>
+#include <stdio.h>
 
 /**
  * print_diagsums - a func prints the sum of two diagonals of sq matrix of int
